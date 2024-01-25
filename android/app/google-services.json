@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "62003921460",
+    "project_id": "proossa-9f44b",
+    "storage_bucket": "proossa-9f44b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62003921460:android:80adba33642a0824ffc061",
+        "android_client_info": {
+          "package_name": "com.proossa.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt5bwFu_5BE_B_E_dLwC89qoWTnnxhfQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62003921460:android:fd4a12622cb366ddffc061",
+        "android_client_info": {
+          "package_name": "com.proossa.net"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt5bwFu_5BE_B_E_dLwC89qoWTnnxhfQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
