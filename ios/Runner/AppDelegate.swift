@@ -11,7 +11,7 @@ import Firebase
   ) -> Bool {
     FirebaseApp.configure()
     Messaging.messaging().delegate = self
-    GMSServices.provideAPIKey("your-google-maps-keys")
+    GMSServices.provideAPIKey("AIzaSyDOC5Jnz8zUV5HvdXQ0HFsENC6THfZKDIQ")
     GeneratedPluginRegistrant.register(with: self)
     if #available(iOS 10.0, *) {
         // For iOS 10 display notification (sent via APNS)

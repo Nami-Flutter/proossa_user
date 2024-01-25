@@ -3,21 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>1022022823127-sslblmdd2adkjrnuallnbfonpd087ina.apps.googleusercontent.com</string>
+	<string>62003921460-jeldod44i9eboinidv1vtk0mr1u7q5bh.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1022022823127-sslblmdd2adkjrnuallnbfonpd087ina</string>
+	<string>com.googleusercontent.apps.62003921460-jeldod44i9eboinidv1vtk0mr1u7q5bh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>62003921460-oat5ask8v7co9lsfp93qpeabfs0arubs.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDa5Nzkwem00XC1By9KPyzlrsQjeoAzz-g</string>
+	<string>AIzaSyCDXhprZYXdGXcTSByXmSGUVETgUYlcf2k</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1022022823127</string>
+	<string>62003921460</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.proossa.app</string>
 	<key>PROJECT_ID</key>
-	<string>ultimate-salon-flutter</string>
+	<string>proossa-9f44b</string>
 	<key>STORAGE_BUCKET</key>
-	<string>ultimate-salon-flutter.appspot.com</string>
+	<string>proossa-9f44b.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +31,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1022022823127:ios:8b5a0c80eba7c881f3d492</string>
+	<string>1:62003921460:ios:e7caf67f917c9224ffc061</string>
 </dict>
 </plist>
